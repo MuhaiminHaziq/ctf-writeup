@@ -22,7 +22,7 @@ Do some research about famous cat statue in malaysia. Probably in kuching bruh.
 
 ---
 
-## 2. Find and the the flag rahhhhhhhhhhhhhhhhhhhh
+## 2. Find and get the flag rahhhhhhhhhhhhhhhhhhhh
 
 I noticed that in instruction challenge did not mention any coordinate, time or any format for the flag. So pretty sure the flag is in the comment or review section.
 
