@@ -26,5 +26,7 @@ Here you will find detailed breakdowns, solutions, and exploitation paths for va
 | *Buffer Overflow* | *Pwn* | *Medium* | [View Writeup](./shellcoder/) |
 | *Buffer Overflow* | *Pwn* | *Medium* | [View Writeup](./shellcoder/) | -->
 
+github link: https://github.com/MuhaiminHaziq/ctf-writeup
+
 ---
 *Disclaimer: All writeups and scripts in this repository are intended strictly for educational purposes, ethical hacking practice, and authorized cybersecurity examinations.*
